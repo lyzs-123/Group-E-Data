@@ -8,6 +8,14 @@ This folder contains a copy of the data we (Group E) used for our project for EE
 
 **Method:** We copied our data from the site into a single spreadsheet and tagged which US state or Canadian province the data is from.
 
+<br>
+
+| Flyway | States / Provinces Sampled |
+| --- | --- |
+|East Coast | Newfoundland and Labrador, Nova Scotia, New Brunswick, Maine, Massachusetts, New York, Pennsylvania, Virginia, North Carolina, South Carolina, Georgia |
+| West Coast | California, Oregon, Washington, British Columbia |
+
+<br>
 
 
 ## Columns of the spreadsheet and what they refer to
